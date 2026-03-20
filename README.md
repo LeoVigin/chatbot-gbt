@@ -1,75 +1,29 @@
-# Nuxt Minimal Starter
+# ChatBot
+<img width="3835" height="1825" alt="image" src="https://github.com/user-attachments/assets/5452cd9a-eccc-4fee-bf81-a567031fbaff" />
+This is a Chatbot using OpenRouter, Chat GBT
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
-## Setup
-
-Make sure to install dependencies:
-
-```bash
-# npm
+## Installation & Start
+- Download the folder or clone the repository using
+```
+clone https://github.com/LeoVigin/chatbot-gbt.git
+```
+- Open the project in any local development server.
+- Install the dependencies
+```
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
+- Build the project
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
 npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
 ```
-
-Locally preview production build:
-
-```bash
-# npm
+- Locally preview production build
+```
 npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
+```
+- Start the project
+```
+npm run dev
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Authors
+@LeoVigin <br>
